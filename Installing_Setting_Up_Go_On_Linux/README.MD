@@ -34,9 +34,10 @@
     exec $shell
 ## 6. check the version of the Go
     go version
+    
 ![alt](https://github.com/sada498/Go_Lang/blob/main/Installing_Setting_Up_Go_On_Linux/img/go%20v.JPG)
 ## 7. Test sample programming
     go run ~/ hello.go
-    ![alt](https://github.com/sada498/Go_Lang/blob/main/Installing_Setting_Up_Go_On_Linux/img/hello.JPG)
+   ![alt](https://github.com/sada498/Go_Lang/blob/main/Installing_Setting_Up_Go_On_Linux/img/hello.JPG)
 
 Done! : )
